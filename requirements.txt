@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 pandas
 numpy
 pytest
 nbconvert
 nbformat
+=======
+pandas
+numpy
+pytest
+nbconvert
+nbformat
+>>>>>>> b546c9aa6d8409e301c1cff07bf822c28966b6d1
 jupyter
