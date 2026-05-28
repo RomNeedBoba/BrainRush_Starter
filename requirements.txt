@@ -1,0 +1,6 @@
+pandas
+numpy
+pytest
+nbconvert
+nbformat
+jupyter
