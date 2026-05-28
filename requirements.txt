@@ -1,6 +1,8 @@
 pandas
 numpy
-pytest
-nbconvert
-nbformat
+matplotlib
+seaborn
 jupyter
+nbconvert
+ipykernel
+pytest
